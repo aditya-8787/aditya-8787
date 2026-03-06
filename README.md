@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+<img src="https://github.com/xenonnn4w/xenonnn4w/blob/main/c490ca0a25bc300089e784e635ff465f.gif" height="300" width="1000"/>
+
 <h3 align="center">Hi there! I'm a passionate Full-Stack Developer who loves building impactful technology and contributing to the open-source community. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-8787&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-8787" /> </p>
