@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">Hi there! I'm a passionate Full-Stack Developer who loves building impactful technology and contributing to the open-source community. 🚀 Skilled in Full-Stack Web Development 🔗 Experienced with Blockchain technologies and decentralized systems ₿ Contributor to projects in the Bitcoin ecosystem 🤖 Enthusiastic about Machine Learning and intelligent systems 📱 Interested in Android Development and building useful mobile applications 🌍 Active supporter of Open Source Development</h3>
+<h3 align="center">Hi there! I'm a passionate Full-Stack Developer who loves building impactful technology and contributing to the open-source community. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-8787&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-8787" /> </p>
 
